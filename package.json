@@ -1,0 +1,38 @@
+{
+  "name": "Html2pdf",
+  "version": "2.0.0",
+  "description": "&lt;p&gt;Cordova 6.1.1+ plugin for android and ios which converts the given html to a pdf document and stores it on the device.&lt;/p&gt;n",
+  "cordova": {
+    "id": "at.modalog.cordova.plugin.html2pdf",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluearth/cordova-plugin-html2pdf"
+  },
+  "bugs": {
+    "url": "https://github.com/bluearth/cordova-plugin-html2pdf/wiki"
+  },
+  "keywords": [
+    "cordova",
+    "html",
+    "pdf",
+    "android",
+    "ios"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "5.0.0": {
+        "cordova-android": ">=6.3.0"
+      },
+      "7.0.0": {
+        "cordova": ">100"
+      }
+    }
+  }
+}
